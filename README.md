@@ -9,5 +9,5 @@ This project provides a testbench implementation for an embedded 32-bit RISC uPr
 * SOC_Design.pdf: Contains the documentation of the IP.
 
 ## References
-[Source for the hdl files] (https://github.com/freecores/embedded_risc/tree/master "HDL Source Code")
-[Coverage Cookbook from verification academy] (https://drive.google.com/file/d/1eA-PrizY-2U0uPVy2eQKB6i-Q3KKms3G/view?usp=sharing "Coverage Cookbook")
+[Source for the hdl files](https://github.com/freecores/embedded_risc/tree/master "HDL Source Code")  
+[Coverage Cookbook from verification academy](https://drive.google.com/file/d/1eA-PrizY-2U0uPVy2eQKB6i-Q3KKms3G/view?usp=sharing "Coverage Cookbook")
